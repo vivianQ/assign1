@@ -14,12 +14,12 @@ void setup(){
   ty=floor(random(480));
   ex=floor(random(640));
   ey=floor(random(480));
-  bg1img= loadImage("assign1/img/bg1.png");
-  bg2img= loadImage("assign1/img/bg2.png");
-  enemyimg= loadImage("assign1/img/enemy.png");
-  fighterimg= loadImage("assign1/img/fighter.png");
-  hpimg= loadImage("assign1/img/hp.png");
-  treasureimg= loadImage("assign1/img/treasure.png"); 
+  bg1img= loadImage("img/bg1.png");
+  bg2img= loadImage("img/bg2.png");
+  enemyimg= loadImage("img/enemy.png");
+  fighterimg= loadImage("img/fighter.png");
+  hpimg= loadImage("img/hp.png");
+  treasureimg= loadImage("img/treasure.png"); 
   
 }
 
